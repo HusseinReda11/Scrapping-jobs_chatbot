@@ -114,6 +114,7 @@ def M_scrape_jobs(keyword):
 
 M_scrape_jobs("برمجة") 
 
+# If the Developer want to use tor browser to change his ip ,He can use this code
 
 # Code need Use Tor
 # import sqlite3
