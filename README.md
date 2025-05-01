@@ -32,13 +32,7 @@ We will scrape job-related information, including:
 🤖 Phase 2: Telegram Bot Development
 
 Build a Telegram bot to interact with users and show them the latest job listings.
-🧠 Phase 3: NLP for Job Description Analysis
 
-Analyze the job descriptions to:
-
-    Extract the required skills
-
-    (Optional) Use a text classification model to categorize the job postings
 
 💾 Phase 4: Data Storage (SQLite)
 
